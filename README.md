@@ -1,7 +1,4 @@
-- 👋 Hi, my name is Evelin!
-- 👀 I’m interested in programming something.
-- 🌱 I’m currently learning HTML, CSS, Python.
-- 📫 Im happy if you like my site!
+Is anyone reading this?
 
 <!---
 EvelinComputer/EvelinComputer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
